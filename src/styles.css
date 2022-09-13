@@ -1,5 +1,5 @@
 body {
-    background-color: #3100ED;
+    background-color: #3100EF;
     color: black;
 }
 
@@ -29,11 +29,11 @@ footer {
     height: 20px;
     text-align: center;
     color: white;
-    background-color: #3100ED;
+    background-color: #3100EF;
 }
 
 h2{
-    color: #3100ED;
+    color: #3100EF;
 }
 
 
@@ -58,7 +58,7 @@ body {
   
   li a {
     display: block;
-    color: #3100ED;
+    color: #3100EF;
     padding: 8px 16px;
     text-decoration: none;
     font-weight: bold;
@@ -66,11 +66,11 @@ body {
   }
   
   li a.active {
-    background-color: #3100ED;
+    background-color: #3100EF;
     color: white;
   }
   
   li a:hover:not(.active) {
-    background-color: #3100ED;
+    background-color: #3100EF;
     color: white;
   }
